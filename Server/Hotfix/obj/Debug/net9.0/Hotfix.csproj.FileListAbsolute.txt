@@ -1,0 +1,11 @@
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\bin\Debug\net9.0\Hotfix.deps.json
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\bin\Debug\net9.0\Hotfix.dll
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\bin\Debug\net9.0\Hotfix.pdb
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net9.0\Hotfix.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net9.0\Hotfix.AssemblyInfoInputs.cache
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net9.0\Hotfix.AssemblyInfo.cs
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net9.0\Hotfix.csproj.CoreCompileInputs.cache
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net9.0\Hotfix.dll
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net9.0\refint\Hotfix.dll
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net9.0\Hotfix.pdb
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net9.0\ref\Hotfix.dll

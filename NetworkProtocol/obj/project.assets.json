@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Fantasy-Net.Tools.ExporterNetworkProtocol/2024.2.24": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Fantasy.Tools.ExporterNetworkProtocol.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Fantasy.Tools.ExporterNetworkProtocol.dll": {}
+        },
+        "build": {
+          "buildTransitive/Fantasy-Net.Tools.ExporterNetworkProtocol.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fantasy-Net.Tools.ExporterNetworkProtocol/2024.2.24": {
+      "sha512": "gKbHZBgiTuERq4LCgctChvpYJGVoUbGNHoXq9x7Yz7aUoU7/M6DjuGdZE7XnsyNioddz1Gh992900RUAPwSpjQ==",
+      "type": "package",
+      "path": "fantasy-net.tools.exporternetworkprotocol/2024.2.24",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "buildTransitive/Fantasy-Net.Tools.ExporterNetworkProtocol.targets",
+        "fantasy-net.tools.exporternetworkprotocol.2024.2.24.nupkg.sha512",
+        "fantasy-net.tools.exporternetworkprotocol.nuspec",
+        "icon.png",
+        "lib/net8.0/Fantasy.Tools.ExporterNetworkProtocol.dll",
+        "tools/output/CommandLine.dll",
+        "tools/output/ExporterSettings.json",
+        "tools/output/Fantasy.Tools.NetworkProtocol",
+        "tools/output/Fantasy.Tools.NetworkProtocol.deps.json",
+        "tools/output/Fantasy.Tools.NetworkProtocol.dll",
+        "tools/output/Fantasy.Tools.NetworkProtocol.pdb",
+        "tools/output/Fantasy.Tools.NetworkProtocol.runtimeconfig.json",
+        "tools/output/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "tools/output/Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "tools/output/Microsoft.Extensions.Configuration.Json.dll",
+        "tools/output/Microsoft.Extensions.Configuration.dll",
+        "tools/output/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "tools/output/Microsoft.Extensions.FileProviders.Physical.dll",
+        "tools/output/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "tools/output/Microsoft.Extensions.Primitives.dll",
+        "tools/output/Newtonsoft.Json.dll",
+        "tools/output/Run.bat",
+        "tools/output/Run.sh"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Fantasy-Net.Tools.ExporterNetworkProtocol >= 2024.2.24"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\12195\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\workspace\\project\\test_proj\\test_proj_server\\NetworkProtocol\\NetworkProtocol.csproj",
+      "projectName": "NetworkProtocol",
+      "projectPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\NetworkProtocol\\NetworkProtocol.csproj",
+      "packagesPath": "C:\\Users\\12195\\.nuget\\packages\\",
+      "outputPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\NetworkProtocol\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\12195\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Fantasy-Net.Tools.ExporterNetworkProtocol": {
+            "target": "Package",
+            "version": "[2024.2.24, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

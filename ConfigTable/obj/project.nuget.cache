@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rTU7aqIQ4K4=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\project\\test_proj\\test_proj_server\\ConfigTable\\ConfigTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12195\\.nuget\\packages\\fantasy-net.tools.exporterconfigtable\\2024.1.8\\fantasy-net.tools.exporterconfigtable.2024.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

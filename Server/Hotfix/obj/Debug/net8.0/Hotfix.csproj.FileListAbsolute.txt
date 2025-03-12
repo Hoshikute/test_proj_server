@@ -1,0 +1,12 @@
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\bin\Debug\net8.0\Hotfix.deps.json
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\bin\Debug\net8.0\Hotfix.dll
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\bin\Debug\net8.0\Hotfix.pdb
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.AssemblyInfoInputs.cache
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.AssemblyInfo.cs
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.csproj.CoreCompileInputs.cache
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.dll
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\refint\Hotfix.dll
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.pdb
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\ref\Hotfix.dll
+D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.csproj.AssemblyReference.cache

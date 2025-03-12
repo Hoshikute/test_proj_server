@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ft5g0TcGGHc=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\project\\test_proj\\test_proj_server\\NetworkProtocol\\NetworkProtocol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12195\\.nuget\\packages\\fantasy-net.tools.exporternetworkprotocol\\2024.2.24\\fantasy-net.tools.exporternetworkprotocol.2024.2.24.nupkg.sha512"
+  ],
+  "logs": []
+}

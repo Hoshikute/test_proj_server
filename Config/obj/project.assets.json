@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Fantasy-Net.Config/2024.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Fantasy-Net.Config.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Fantasy-Net.Config.dll": {}
+        },
+        "build": {
+          "buildTransitive/Fantasy-Net.Config.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fantasy-Net.Config/2024.1.4": {
+      "sha512": "zStTIJq91mx3VjCcU7eAtrExAcv1Zg+dAd8UdDvpHu7kTY8ldDQMp8sCmez2s+vUTmNyH1hlOgEE3rJILAijfQ==",
+      "type": "package",
+      "path": "fantasy-net.config/2024.1.4",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "buildTransitive/Fantasy-Net.Config.targets",
+        "fantasy-net.config.2024.1.4.nupkg.sha512",
+        "fantasy-net.config.nuspec",
+        "icon.png",
+        "lib/net8.0/Fantasy-Net.Config.dll",
+        "tools/output/Excel/Custom.txt",
+        "tools/output/Excel/Server/MachineConfig.xlsx",
+        "tools/output/Excel/Server/ProcessConfig.xlsx",
+        "tools/output/Excel/Server/SceneConfig.xlsx",
+        "tools/output/Excel/Server/WorldConfig.xlsx",
+        "tools/output/Excel/Version.txt",
+        "tools/output/Json/Server/MachineConfigData.Json",
+        "tools/output/Json/Server/ProcessConfigData.Json",
+        "tools/output/Json/Server/SceneConfigData.Json",
+        "tools/output/Json/Server/WorldConfigData.Json",
+        "tools/output/NetworkProtocol/Inner/InnerMessage.proto",
+        "tools/output/NetworkProtocol/OpCode.Cache",
+        "tools/output/NetworkProtocol/Outer/OuterMessage.proto",
+        "tools/output/NetworkProtocol/RouteType.Config",
+        "tools/output/README.md"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Fantasy-Net.Config >= 2024.1.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\12195\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\workspace\\project\\test_proj\\test_proj_server\\Config\\Config.csproj",
+      "projectName": "Config",
+      "projectPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\Config\\Config.csproj",
+      "packagesPath": "C:\\Users\\12195\\.nuget\\packages\\",
+      "outputPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\Config\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\12195\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Fantasy-Net.Config": {
+            "target": "Package",
+            "version": "[2024.1.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

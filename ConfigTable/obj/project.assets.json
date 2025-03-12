@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Fantasy-Net.Tools.ExporterConfigTable/2024.1.8": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Fantasy.Tools.ExporterConfigTable.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/Fantasy.Tools.ExporterConfigTable.dll": {}
+        },
+        "build": {
+          "buildTransitive/Fantasy-Net.Tools.ExporterConfigTable.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fantasy-Net.Tools.ExporterConfigTable/2024.1.8": {
+      "sha512": "Tx6wYQLqkdLt79cqGqBUIDY9YIeoFF8sYrrCo3IRqKKaBDfZXYx8RcsurfE3YzKc4WuYxxQskaoBThS0LvJGOQ==",
+      "type": "package",
+      "path": "fantasy-net.tools.exporterconfigtable/2024.1.8",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "buildTransitive/Fantasy-Net.Tools.ExporterConfigTable.targets",
+        "fantasy-net.tools.exporterconfigtable.2024.1.8.nupkg.sha512",
+        "fantasy-net.tools.exporterconfigtable.nuspec",
+        "icon.png",
+        "lib/net8.0/Fantasy.Tools.ExporterConfigTable.dll",
+        "tools/output/CommandLine.dll",
+        "tools/output/EPPlus.Interfaces.dll",
+        "tools/output/EPPlus.System.Drawing.dll",
+        "tools/output/EPPlus.dll",
+        "tools/output/ExporterSettings.json",
+        "tools/output/Fantasy.Tools.ConfigTable",
+        "tools/output/Fantasy.Tools.ConfigTable.deps.json",
+        "tools/output/Fantasy.Tools.ConfigTable.dll",
+        "tools/output/Fantasy.Tools.ConfigTable.pdb",
+        "tools/output/Fantasy.Tools.ConfigTable.runtimeconfig.json",
+        "tools/output/Microsoft.CodeAnalysis.CSharp.dll",
+        "tools/output/Microsoft.CodeAnalysis.dll",
+        "tools/output/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "tools/output/Microsoft.Extensions.Configuration.FileExtensions.dll",
+        "tools/output/Microsoft.Extensions.Configuration.Json.dll",
+        "tools/output/Microsoft.Extensions.Configuration.dll",
+        "tools/output/Microsoft.Extensions.FileProviders.Abstractions.dll",
+        "tools/output/Microsoft.Extensions.FileProviders.Physical.dll",
+        "tools/output/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "tools/output/Microsoft.Extensions.Primitives.dll",
+        "tools/output/Microsoft.IO.RecyclableMemoryStream.dll",
+        "tools/output/Microsoft.Win32.SystemEvents.dll",
+        "tools/output/Newtonsoft.Json.dll",
+        "tools/output/Run.bat",
+        "tools/output/Run.sh",
+        "tools/output/System.Drawing.Common.dll",
+        "tools/output/System.Formats.Asn1.dll",
+        "tools/output/System.Security.Cryptography.Pkcs.dll",
+        "tools/output/System.Text.Json.dll",
+        "tools/output/protobuf-net.Core.dll",
+        "tools/output/protobuf-net.dll",
+        "tools/output/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll",
+        "tools/output/runtimes/win/lib/net7.0/System.Drawing.Common.dll",
+        "tools/output/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Fantasy-Net.Tools.ExporterConfigTable >= 2024.1.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\12195\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\workspace\\project\\test_proj\\test_proj_server\\ConfigTable\\ConfigTable.csproj",
+      "projectName": "ConfigTable",
+      "projectPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\ConfigTable\\ConfigTable.csproj",
+      "packagesPath": "C:\\Users\\12195\\.nuget\\packages\\",
+      "outputPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\ConfigTable\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\12195\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Fantasy-Net.Tools.ExporterConfigTable": {
+            "target": "Package",
+            "version": "[2024.1.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

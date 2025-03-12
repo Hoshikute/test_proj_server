@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetworkProtocol/1.0.0": {
+        "dependencies": {
+          "Fantasy-Net.Tools.ExporterNetworkProtocol": "2024.2.24"
+        },
+        "runtime": {
+          "NetworkProtocol.dll": {}
+        }
+      },
+      "Fantasy-Net.Tools.ExporterNetworkProtocol/2024.2.24": {
+        "runtime": {
+          "lib/net8.0/Fantasy.Tools.ExporterNetworkProtocol.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkProtocol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fantasy-Net.Tools.ExporterNetworkProtocol/2024.2.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gKbHZBgiTuERq4LCgctChvpYJGVoUbGNHoXq9x7Yz7aUoU7/M6DjuGdZE7XnsyNioddz1Gh992900RUAPwSpjQ==",
+      "path": "fantasy-net.tools.exporternetworkprotocol/2024.2.24",
+      "hashPath": "fantasy-net.tools.exporternetworkprotocol.2024.2.24.nupkg.sha512"
+    }
+  }
+}

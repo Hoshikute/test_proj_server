@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cbWRRf0dX2c=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\project\\test_proj\\test_proj_server\\Config\\Config.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12195\\.nuget\\packages\\fantasy-net.config\\2024.1.4\\fantasy-net.config.2024.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

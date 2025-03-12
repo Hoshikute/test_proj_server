@@ -1,0 +1,17 @@
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\bin\Debug\net9.0\NetworkProtocol.exe
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\bin\Debug\net9.0\NetworkProtocol.deps.json
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\bin\Debug\net9.0\NetworkProtocol.runtimeconfig.json
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\bin\Debug\net9.0\NetworkProtocol.dll
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\bin\Debug\net9.0\NetworkProtocol.pdb
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\bin\Debug\net9.0\Fantasy.Tools.ExporterNetworkProtocol.dll
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkProtocol.csproj.AssemblyReference.cache
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkProtocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkProtocol.AssemblyInfoInputs.cache
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkProtocol.AssemblyInfo.cs
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkProtocol.csproj.CoreCompileInputs.cache
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkP.D40DDD75.Up2Date
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkProtocol.dll
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\refint\NetworkProtocol.dll
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkProtocol.pdb
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\NetworkProtocol.genruntimeconfig.cache
+D:\workspace\project\test_proj\test_proj_server\NetworkProtocol\obj\Debug\net9.0\ref\NetworkProtocol.dll
