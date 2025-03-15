@@ -993,11 +993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\project\\test_proj\\test_proj_server\\Server\\main\\Main.csproj",
+      "projectUniqueName": "D:\\workspace\\project\\test_proj\\test_proj_server\\Server\\Main\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\Server\\main\\Main.csproj",
+      "projectPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\Server\\Main\\Main.csproj",
       "packagesPath": "C:\\Users\\12195\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\Server\\main\\obj\\",
+      "outputPath": "D:\\workspace\\project\\test_proj\\test_proj_server\\Server\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12195\\AppData\\Roaming\\NuGet\\NuGet.Config",

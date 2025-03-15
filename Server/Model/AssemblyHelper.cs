@@ -33,8 +33,8 @@ namespace Fantasy
             }
 
             _assemblyLoadContext = new AssemblyLoadContext(HotfixDll, true);
-            var dllBytes = File.ReadAllBytes(Path.Combine(Environment.CurrentDirectory, $"Server/Hotfix/obj/Debug/net8.0/{HotfixDll}.dll"));
-            var pdbBytes = File.ReadAllBytes(Path.Combine(Environment.CurrentDirectory, $"Server/Hotfix/obj/Debug/net8.0/{HotfixDll}.pdb"));
+            var dllBytes = File.ReadAllBytes(Path.Combine(Environment.CurrentDirectory, $"../Hotfix/obj/Debug/net8.0/{HotfixDll}.dll"));
+            var pdbBytes = File.ReadAllBytes(Path.Combine(Environment.CurrentDirectory, $"../Hotfix/obj/Debug/net8.0/{HotfixDll}.pdb"));
             return _assemblyLoadContext.LoadFromStream(new MemoryStream(dllBytes), new MemoryStream(pdbBytes));
         }
     }

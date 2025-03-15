@@ -23,7 +23,7 @@ namespace Hotfix.System.Authentication
 			bool isExist = await db.Exist<Account>(d=>d.account==account);
 			if (isExist)
 			{
-				return 1001;
+				return 1002;
 			}
 			Account accountData = Entity.Create<Account>(self.Scene,true,true);
 			accountData.account = account;

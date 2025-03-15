@@ -1,0 +1,8 @@
+2025-03-13 21:43:14.2750  初始化序列化器成功，数量为：2
+2025-03-13 21:43:14.6613  SceneConfigId = 1001 networkTarget = Inner TCPServer Listen 127.0.0.1:11001
+2025-03-13 21:43:14.9719  SceneConfigId = 1002 networkTarget = Inner TCPServer Listen 127.0.0.1:11002
+2025-03-13 21:43:15.2417  SceneConfigId = 1002 networkTarget = Outer KCPServer Listen 127.0.0.1:20000
+2025-03-13 21:43:15.5361  SceneConfigId = 1003 networkTarget = Inner TCPServer Listen 127.0.0.1:11003
+2025-03-13 21:43:15.8316  SceneConfigId = 1004 networkTarget = Inner TCPServer Listen 127.0.0.1:11004
+2025-03-13 21:43:16.1219  SceneConfigId = 1005 networkTarget = Inner TCPServer Listen 127.0.0.1:11005
+2025-03-13 21:43:16.1219  Process:1 Startup Complete SceneCount:5

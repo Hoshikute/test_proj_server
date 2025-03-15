@@ -1,0 +1,19 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "fantasy_start",
+			"type": "coreclr",
+			"request": "launch",
+			// "preLaunchTask": "build", // 可选：如果需要在调试前构建项目
+			"program": "${workspaceFolder}/Server/Main/bin/Debug/net8.0/Main.dll", // 替换为实际生成的DLL路径
+			"args": [
+				"-m",
+				"Develop"
+			],
+			"cwd": "${workspaceFolder}/Server/Main",
+			"stopAtEntry": false,
+			"console": "internalConsole"
+		}
+	]
+}

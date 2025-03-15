@@ -19,9 +19,7 @@ D:\workspace\project\test_proj\test_proj_server\Server\main\bin\Debug\net8.0\Sha
 D:\workspace\project\test_proj\test_proj_server\Server\main\bin\Debug\net8.0\Snappier.dll
 D:\workspace\project\test_proj\test_proj_server\Server\main\bin\Debug\net8.0\System.IO.Pipelines.dll
 D:\workspace\project\test_proj\test_proj_server\Server\main\bin\Debug\net8.0\ZstdSharp.dll
-D:\workspace\project\test_proj\test_proj_server\Server\main\bin\Debug\net8.0\Entity.dll
 D:\workspace\project\test_proj\test_proj_server\Server\main\bin\Debug\net8.0\Hotfix.dll
-D:\workspace\project\test_proj\test_proj_server\Server\main\bin\Debug\net8.0\Entity.pdb
 D:\workspace\project\test_proj\test_proj_server\Server\main\bin\Debug\net8.0\Hotfix.pdb
 D:\workspace\project\test_proj\test_proj_server\Server\main\obj\Debug\net8.0\Main.csproj.AssemblyReference.cache
 D:\workspace\project\test_proj\test_proj_server\Server\main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
@@ -34,3 +32,6 @@ D:\workspace\project\test_proj\test_proj_server\Server\main\obj\Debug\net8.0\ref
 D:\workspace\project\test_proj\test_proj_server\Server\main\obj\Debug\net8.0\Main.pdb
 D:\workspace\project\test_proj\test_proj_server\Server\main\obj\Debug\net8.0\Main.genruntimeconfig.cache
 D:\workspace\project\test_proj\test_proj_server\Server\main\obj\Debug\net8.0\ref\Main.dll
+D:\workspace\project\test_proj\test_proj_server\Server\Main\bin\Debug\net8.0\Model.dll
+D:\workspace\project\test_proj\test_proj_server\Server\Main\bin\Debug\net8.0\Model.pdb
+D:\workspace\project\test_proj\test_proj_server\Server\Main\obj\Debug\net8.0\Main.sourcelink.json

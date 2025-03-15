@@ -11,6 +11,7 @@ namespace Hotfix
 	{
 		protected override async FTask Run(Session session, RegistAccountRequest request, RegistAccountResponse response, Action reply)
 		{
+			Console.WriteLine("收到注册账号请求");
 			var accComp = session.Scene.GetComponent<AuthenticationAccountComponent>();
 			var errCode = await accComp.RegistAccount(request.account, request.passward);
 			if (errCode == 0)

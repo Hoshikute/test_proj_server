@@ -3,10 +3,10 @@ using Fantasy.Helper;
 using Fantasy.Platform.Net;
 // 获取配置文件
 // 比如通过远程获取这个配置文件，这样可以多组服务器共享一套配置了
-var machineConfigText = await FileHelper.GetTextByRelativePath("D:/workspace/document/framework_origin/Fantasy/Examples/Config/Json/Server/MachineConfigData.Json");
-var processConfigText = await FileHelper.GetTextByRelativePath("D:/workspace/document/framework_origin/Fantasy/Examples/Config/Json/Server/ProcessConfigData.Json");
-var worldConfigText = await FileHelper.GetTextByRelativePath("D:/workspace/document/framework_origin/Fantasy/Examples/Config/Json/Server/WorldConfigData.Json");
-var sceneConfigText = await FileHelper.GetTextByRelativePath("D:/workspace/document/framework_origin/Fantasy/Examples/Config/Json/Server/SceneConfigData.Json");
+var machineConfigText = await FileHelper.GetTextByRelativePath("D:/workspace/project/test_proj/test_proj_server/Config/Tools/Exporter/ConfigTable/Json/Server/MachineConfigData.Json");
+var processConfigText = await FileHelper.GetTextByRelativePath("D:/workspace/project/test_proj/test_proj_server/Config/Tools/Exporter/ConfigTable/Json/Server/ProcessConfigData.Json");
+var worldConfigText = await FileHelper.GetTextByRelativePath("D:/workspace/project/test_proj/test_proj_server/Config/Tools/Exporter/ConfigTable/Json/Server/WorldConfigData.Json");
+var sceneConfigText = await FileHelper.GetTextByRelativePath("D:/workspace/project/test_proj/test_proj_server/Config/Tools/Exporter/ConfigTable/Json/Server/SceneConfigData.Json");
 // 初始化配置文件
 // 如果重复初始化方法会覆盖掉上一次的数据，非常适合热重载时使用
 MachineConfigData.Initialize(machineConfigText);

@@ -8,10 +8,10 @@
     ".NETCoreApp,Version=v8.0": {
       "Main/1.0.0": {
         "dependencies": {
-          "Entity": "1.0.0",
           "Fantasy-Net": "2024.2.24",
           "Fantasy-Net.NLog": "2024.1.20",
-          "Hotfix": "1.0.0"
+          "Hotfix": "1.0.0",
+          "Model": "1.0.0"
         },
         "runtime": {
           "Main.dll": {}
@@ -182,17 +182,24 @@
           }
         }
       },
-      "Entity/1.0.0": {
+      "Hotfix/1.0.0": {
+        "dependencies": {
+          "Fantasy-Net": "2024.2.24",
+          "Model": "1.0.0"
+        },
         "runtime": {
-          "Entity.dll": {
+          "Hotfix.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "Hotfix/1.0.0": {
+      "Model/1.0.0": {
+        "dependencies": {
+          "Fantasy-Net": "2024.2.24"
+        },
         "runtime": {
-          "Hotfix.dll": {
+          "Model.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -367,12 +374,12 @@
       "path": "zstdsharp.port/0.7.3",
       "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
     },
-    "Entity/1.0.0": {
+    "Hotfix/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Hotfix/1.0.0": {
+    "Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

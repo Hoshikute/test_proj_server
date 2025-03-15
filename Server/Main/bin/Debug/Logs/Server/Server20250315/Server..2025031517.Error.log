@@ -1,0 +1,29 @@
+2025-03-15 17:25:00.8284  System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hotfix.System.Authentication.AuthenticationSystem.RegistAccount(AuthenticationAccountComponent self, String account, String password) in D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\System\Authentication\AuthenticationSystem.cs:line 18
+   at Hotfix.RegistAccountHanlder.Run(Session session, RegistAccountRequest request, RegistAccountResponse response, Action reply) in D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\Authentication\RegistAccountHandler.cs:line 16
+   at Fantasy.Network.Interface.MessageRPC`2.Handle(Session session, UInt32 rpcId, UInt32 messageTypeCode, Object message)
+2025-03-15 17:28:51.6272  System.Net.Sockets.SocketException (10048): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, Boolean disconnectOnFailure, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Fantasy.Network.TCP.TCPServerNetwork.Initialize(NetworkTarget networkTarget, IPEndPoint address)
+   at Fantasy.Network.NetworkProtocolFactory.CreateServer(Scene scene, NetworkProtocolType protocolType, NetworkTarget networkTarget, String bindIp, Int32 port)
+   at Fantasy.Scene.Create(Process process, MachineConfig machineConfig, SceneConfig sceneConfig)
+   at Fantasy.Platform.Net.Process.Create(UInt32 processConfigId)
+   at Fantasy.Platform.Net.Entry.StartProcess()
+   at Fantasy.Async.FTask.InnerCoroutine()
+   at Fantasy.Async.FTask.InnerCoroutine()
+   at Fantasy.Platform.Net.Entry.StartProcess()
+   at Fantasy.Platform.Net.Process.Create(UInt32 processConfigId)
+   at Fantasy.Scene.Create(Process process, MachineConfig machineConfig, SceneConfig sceneConfig)
+   at Fantasy.Scene.SetScheduler(Scene scene, String sceneRuntimeType)
+   at Fantasy.Scene.Initialize()
+   at Fantasy.SingleCollection.SingleCollectionComponent.Initialize()
+   at Fantasy.Assembly.AssemblySystem.Register(Object obj)
+   at Fantasy.SingleCollection.SingleCollectionComponent.Load(Int64 assemblyIdentity)
+   at Fantasy.SingleCollection.SingleCollectionComponent.<>c__DisplayClass5_0.<Load>b__0()
+   at Fantasy.ThreadSynchronizationContext.Update()
+2025-03-15 17:33:33.3027  System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hotfix.System.Authentication.AuthenticationSystem.RegistAccount(AuthenticationAccountComponent self, String account, String password) in D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\System\Authentication\AuthenticationSystem.cs:line 18
+   at Hotfix.RegistAccountHanlder.Run(Session session, RegistAccountRequest request, RegistAccountResponse response, Action reply) in D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\Authentication\RegistAccountHandler.cs:line 16
+   at Fantasy.Network.Interface.MessageRPC`2.Handle(Session session, UInt32 rpcId, UInt32 messageTypeCode, Object message)

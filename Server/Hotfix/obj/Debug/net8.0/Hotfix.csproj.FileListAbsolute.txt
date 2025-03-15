@@ -10,3 +10,7 @@ D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\r
 D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.pdb
 D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\ref\Hotfix.dll
 D:\workspace\project\test_proj\test_proj_server\Server\hotfix\obj\Debug\net8.0\Hotfix.csproj.AssemblyReference.cache
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\bin\Debug\net8.0\Model.dll
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\bin\Debug\net8.0\Model.pdb
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net8.0\Hotfix.sourcelink.json
+D:\workspace\project\test_proj\test_proj_server\Server\Hotfix\obj\Debug\net8.0\Hotfix.csproj.Up2Date
